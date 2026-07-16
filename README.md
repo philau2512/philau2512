@@ -8,10 +8,6 @@ I'm a Full-Stack Developer with a deep obsession for AI integration and workflow
 
 I don't just write code - I love solving friction. Whether it's shaving off seconds from a CLI command or building full-scale SaaS platforms, my goal is always to make things faster, smarter, and highly automated.
 
-*   **What I'm doing:** Exploring the endless possibilities of LLMs, designing robust AI agents, and crafting developer productivity tools.
-*   **My stack:** Node.js/TypeScript, React/Next.js, and a growing passion for Rust (because performance matters).
-*   **Philosophy:** Why do it manually in 5 minutes when you can spend 5 hours failing to automate it? (But hey, when it works, it's beautiful).
-
 ---
 
 ## 🚀 What I Love Building
